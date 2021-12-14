@@ -1,0 +1,14 @@
+import gab.opencv.*;
+PImage img, im1, im2;
+OpenCV cv;
+img = loadImage("../apple.jpg"); 
+size(1000,500);
+cv = new OpenCV(this, img);
+cv.gray();
+cv.threshold(100);
+im1 = cv.getSnapshot();
+cv.erode();
+cv.dilate();
+im2 = cv.getSnapshot();
+image(im1, 0, 0);
+image(im2, 500, 0);

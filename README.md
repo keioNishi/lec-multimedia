@@ -1,6 +1,6 @@
 [![「マルチメディアデザイン」レクチャーノート](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keioNishi/lec-multimedia)
 [![Processingバッジ](https://img.shields.io/badge/Processing->v3.5-0464f6.svg?style=flat)](https://processing.org/)
-[![Slackマルチメディアデザイン](https://img.shields.io/badge/Slack-keio--sd--dataai-3f0f40.svg?style=flat)](https://keio-st-multimedia.slack.com/)
+[![Slackマルチメディアデザイン](https://img.shields.io/badge/Slack-keio--st--multimedia-3f0f40.svg?style=flat)](https://keio-st-multimedia.slack.com/)
 
 # 「マルチメディアデザイン」レクチャーノート
 ## lec-dataai / Lecture Notes for "Multimedia Design"

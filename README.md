@@ -1,11 +1,10 @@
-[![「マルチメディアデザイン」レクチャーノート](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keioNishi/lec-multimedia)
 [![Processingバッジ](https://img.shields.io/badge/Processing->v3.5-0464f6.svg?style=flat)](https://processing.org/)
 [![Slackマルチメディアデザイン](https://img.shields.io/badge/Slack-keio--st--multimedia-3f0f40.svg?style=flat)](https://keio-st-multimedia.slack.com/)
 
 # 「マルチメディアデザイン」レクチャーノート
 ## lec-dataai / Lecture Notes for "Multimedia Design"
 - 全体の閲覧とダウンロード
-  - 左上もしくはこちら[![「マルチメディアデザイン」レクチャーノート](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/keioNishi/lec-multimedia)のバッジを利用してください
+  - こちらのページ、もしくはgit cloneによりダウンロードを行って利用してください
 - 個別ダウンロードは下記にリンクがあります
   - 個別ダウンロードはご自身の環境への展開や移動が必要となる場合があります
   - 講義を受ける際にはgit cloneが便利です

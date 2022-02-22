@@ -3,7 +3,7 @@ PShape globe;
 void setup() { 
   size(600, 600, P3D); 
   background(0); 
-  PImage earth = loadImage("hoge.jpg");
+  PImage earth = loadImage("earth.jpg");
   globe = createShape(SPHERE, 200); 
   globe.setStroke(false);
   globe.setTexture(earth);
